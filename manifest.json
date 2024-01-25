@@ -1,0 +1,16 @@
+{
+  "name": "Salin Abangku 🔥🔥",
+  "version": "1.0.0",
+  "description": "Menyalin dan menyala  🔥🔥",
+  "manifest_version": 3,
+  "author": "Dityath",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Salin Abangku 🔥🔥"
+  },
+  "icons": {
+    "16": "icon/icon1.png",
+    "48": "icon/icon1.png",
+    "128": "icon/icon1.png"
+  }
+}
